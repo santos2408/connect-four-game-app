@@ -33,18 +33,21 @@ export default {
         {
           id: 1,
           title: "Play vs CPU",
+          link: "/",
           icon: buttonIcon1,
           class: "primary-button",
         },
         {
           id: 2,
           title: "Play vs Player",
+          link: "/gameboard",
           icon: buttonIcon2,
           class: "secondary-button",
         },
         {
           id: 3,
           title: "Game Rules",
+          link: "/",
           icon: null,
           class: "third-button",
         },
